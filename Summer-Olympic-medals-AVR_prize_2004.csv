@@ -1,0 +1,75 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+CAN,Canada,0.46,0.59,1.52,0.85
+RUS,Russia,7.13,14.14,7.42,9.61
+AUS,Australia,7.44,4.42,11.82,7.86
+GRE,Greece,1.21,0.74,2.73,1.55
+CHN,China,7.89,2.21,4.09,4.70
+GBR,United Kingdom,2.58,2.21,3.79,2.85
+GER,Germany,6.22,9.28,6.82,7.46
+ZIM,Zimbabwe,0.15,0.15,0.15,0.15
+JPN,Japan,3.19,7.81,3.03,4.70
+USA,United States,17.60,10.75,11.36,13.21
+NED,Netherlands,0.61,3.24,7.58,3.80
+ITA,Italy,3.64,5.74,5.91,5.11
+POL,Poland,0.61,0.88,0.30,0.60
+FRA,France,3.19,3.24,1.52,2.65
+RSA,South Africa,0.61,0.44,0.45,0.50
+AUT,Austria,0.46,0.15,0.61,0.40
+ROU,Romania,3.49,1.62,0.76,1.95
+UKR,Ukraine,1.37,4.57,1.21,2.40
+HUN,Hungary,3.64,0.59,1.82,2.00
+CRO,Croatia,2.12,0.44,0.45,1.00
+ARG,Argentina,3.95,3.09,0.00,2.35
+TRI,Trinidad and Tobago,0.00,0.15,0.00,0.05
+SCG,Serbia,0.00,0.00,2.12,0.70
+KOR,"Korea, South",2.12,1.47,4.24,2.60
+TPE,Taiwan,0.30,0.44,0.61,0.45
+BAH,Bahamas,0.15,0.15,0.00,0.10
+JAM,Jamaica,0.91,0.88,0.15,0.65
+SWE,Sweden,0.76,0.29,0.76,0.60
+NGR,Nigeria,0.00,1.18,0.00,0.40
+BRA,Brazil,2.73,0.44,2.88,2.00
+KEN,Kenya,0.15,0.29,0.61,0.35
+BLR,Belarus,0.30,1.33,0.91,0.85
+POR,Portugal,0.00,0.15,0.30,0.15
+TUR,Turkey,0.46,0.59,0.45,0.50
+ETH,Ethiopia,0.30,0.29,0.45,0.35
+SLO,Slovenia,0.00,0.44,0.30,0.25
+CMR,Cameroon,0.15,0.00,0.00,0.05
+MAR,Morocco,0.30,0.00,0.15,0.15
+KAZ,Kazakhstan,0.15,0.44,0.61,0.40
+DOM,Dominican Republic,0.15,0.00,0.00,0.05
+CUB,Cuba,4.70,3.24,1.21,3.05
+CZE,Czech Republic,0.15,0.74,0.91,0.60
+ESP,Spain,0.61,1.18,2.27,1.35
+NOR,Norway,0.76,0.29,0.00,0.35
+ERI,Eritrea,0.00,0.15,0.00,0.05
+LTU,Lithuania,0.15,0.00,0.30,0.15
+DEN,Denmark,2.88,1.47,0.00,1.45
+MEX,Mexico,0.00,0.15,0.45,0.20
+EST,Estonia,0.00,0.29,0.15,0.15
+LAT,Latvia,0.00,0.00,0.61,0.20
+INA,Indonesia,0.15,0.44,0.15,0.25
+THA,Thailand,0.46,0.59,0.15,0.40
+AZE,Azerbaijan,0.15,0.59,0.00,0.25
+UZB,Uzbekistan,0.30,0.29,0.15,0.25
+EGY,Egypt,0.15,0.44,0.15,0.25
+PRK,"Korea, North",0.00,0.15,0.61,0.25
+SYR,Syria,0.00,0.15,0.00,0.05
+BUL,Bulgaria,0.30,2.06,0.15,0.85
+NZL,New Zealand,0.61,0.00,0.30,0.30
+SVK,Slovakia,0.46,0.74,0.30,0.50
+SUI,Switzerland,0.15,0.59,0.30,0.35
+BEL,Belgium,0.15,0.29,0.00,0.15
+COL,Colombia,0.00,0.29,0.00,0.10
+PAR,Paraguay,0.00,0.00,2.58,0.85
+GEO,Georgia,0.30,0.00,0.30,0.20
+ISR,Israel,0.15,0.15,0.00,0.10
+MGL,Mongolia,0.00,0.15,0.00,0.05
+IND,India,0.00,0.00,0.15,0.05
+FIN,Finland,0.00,0.00,0.30,0.10
+UAE,United Arab Emirates,0.15,0.00,0.00,0.05
+HKG,Hong Kong*,0.00,0.00,0.30,0.10
+IRI,Iran,0.30,0.29,0.30,0.30
+VEN,Venezuela,0.00,0.29,0.00,0.10
+CHI,Chile,0.46,0.15,0.00,0.20

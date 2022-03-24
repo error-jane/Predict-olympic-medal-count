@@ -1,0 +1,65 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+USA,United States,15.95,14.26,9.07,13.14
+CHN,China,3.23,3.19,8.35,4.87
+EUN,Unified team,16.49,11.07,11.80,13.08
+GER,Germany,14.52,10.07,10.34,11.61
+BRA,Brazil,2.33,0.00,0.18,0.82
+HUN,Hungary,2.51,1.34,4.17,2.64
+AUS,Australia,2.51,2.68,4.90,3.34
+ESP,Spain,7.89,0.34,3.63,3.87
+POL,Poland,0.90,3.19,3.27,2.46
+FRA,France,1.61,7.21,0.91,3.34
+SWE,Sweden,0.18,1.17,4.90,2.05
+ITA,Italy,3.94,2.35,1.81,2.70
+CAN,Canada,4.84,2.01,0.91,2.58
+JPN,Japan,0.54,6.04,1.45,2.76
+FIN,Finland,0.18,0.34,0.73,0.41
+GBR,United Kingdom,1.43,6.54,0.54,2.93
+NZL,New Zealand,0.18,0.84,1.63,0.88
+SUR,Suriname,0.00,0.17,0.00,0.06
+KOR,"Korea, South",5.02,2.68,0.91,2.87
+BUL,Bulgaria,0.54,1.17,1.27,1.00
+KEN,Kenya,0.36,0.34,0.73,0.47
+NGR,Nigeria,0.00,0.67,1.27,0.65
+CUB,Cuba,7.89,2.35,2.36,4.16
+ALG,Algeria,0.18,0.17,0.00,0.12
+MAR,Morocco,0.18,0.17,0.18,0.18
+TCH,Czechoslovakia,0.72,0.17,0.54,0.47
+BAH,Bahamas,0.00,0.17,0.00,0.06
+RSA,South Africa,0.00,0.00,0.54,0.18
+NAM,Namibia,0.00,0.00,0.36,0.12
+JAM,Jamaica,0.00,0.17,0.54,0.23
+MEX,Mexico,0.00,0.00,0.18,0.06
+ETH,Ethiopia,0.18,0.34,0.00,0.18
+QAT,Qatar,0.00,0.17,0.00,0.06
+NED,Netherlands,0.90,1.34,3.63,1.94
+GRE,Greece,0.36,0.00,0.00,0.12
+LTU,Lithuania,0.18,2.01,0.00,0.76
+ROU,Romania,1.43,2.35,5.63,3.11
+COL,Colombia,0.00,0.17,0.00,0.06
+MAS,Malaysia,0.00,0.34,0.00,0.12
+INA,Indonesia,0.36,0.17,0.54,0.35
+DEN,Denmark,0.54,1.51,0.36,0.82
+TPE,Taiwan,0.00,0.00,3.63,1.17
+CRO,Croatia,0.00,0.50,2.18,0.88
+PUR,Puerto Rico*,0.00,0.17,0.00,0.06
+PHI,Philippines,0.00,0.17,0.00,0.06
+PRK,"Korea, North",0.72,1.01,0.00,0.59
+THA,Thailand,0.00,0.17,0.00,0.06
+MGL,Mongolia,0.00,0.34,0.00,0.12
+IRL,Ireland,0.18,0.00,0.18,0.12
+NOR,Norway,0.36,0.17,3.63,1.35
+LAT,Latvia,0.00,0.17,0.36,0.18
+EST,Estonia,0.18,0.34,0.00,0.18
+BEL,Belgium,0.00,0.34,0.18,0.18
+AUT,Austria,0.00,0.00,1.09,0.35
+GHA,Ghana,0.00,2.18,0.00,0.76
+PAK,Pakistan,0.00,2.68,0.00,0.94
+TUR,Turkey,0.36,0.34,0.36,0.35
+ISR,Israel,0.00,0.17,0.18,0.12
+SLO,Slovenia,0.00,1.01,0.00,0.35
+IOP,Independent Olympic Participants (1992),0.00,0.34,0.18,0.18
+PER,Peru,0.00,0.00,0.18,0.06
+ARG,Argentina,0.00,0.34,0.00,0.12
+SUI,Switzerland,0.18,0.00,0.00,0.06
+IRI,Iran,0.00,0.34,0.18,0.18

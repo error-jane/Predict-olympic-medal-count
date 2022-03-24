@@ -1,0 +1,80 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+CHN,China,19,17,74,110
+GER,Germany,42,47,35,124
+USA,United States,160,52,48,260
+RUS,Russia,36,34,45,115
+CAN,Canada,8,12,31,51
+AUS,Australia,32,84,16,132
+IRL,Ireland,3,1,0,4
+RSA,South Africa,3,1,1,5
+NZL,New Zealand,3,4,2,9
+CUB,Cuba,39,10,8,57
+BRA,Brazil,5,44,15,64
+NED,Netherlands,38,26,9,73
+GBR,United Kingdom,2,9,15,26
+ITA,Italy,19,28,24,71
+HUN,Hungary,8,26,9,43
+SWE,Sweden,3,5,23,31
+CRC,Costa Rica,1,0,0,1
+BEL,Belgium,2,2,2,6
+FIN,Finland,1,1,2,4
+JPN,Japan,3,14,26,43
+CRO,Croatia,16,0,13,29
+ESP,Spain,24,22,21,67
+POL,Poland,7,7,7,21
+KOR,"Korea, South",10,7,49,66
+UKR,Ukraine,10,19,5,34
+BLR,Belarus,1,16,6,23
+NOR,Norway,2,20,3,25
+JAM,Jamaica,1,12,3,16
+MAR,Morocco,0,2,0,2
+ROU,Romania,13,15,10,38
+NGR,Nigeria,19,3,4,26
+FRA,France,21,20,10,51
+ETH,Ethiopia,2,1,0,3
+TRI,Trinidad and Tobago,0,2,0,2
+NAM,Namibia,0,0,2,2
+ZAM,Zambia,0,0,1,1
+KEN,Kenya,1,3,4,8
+SLO,Slovenia,0,0,2,2
+BAH,Bahamas,0,0,5,5
+SYR,Syria,1,0,0,1
+BDI,Burundi,1,0,0,1
+ECU,Ecuador,1,0,0,1
+POR,Portugal,1,2,0,3
+ALG,Algeria,2,1,0,3
+GRE,Greece,4,0,4,8
+MOZ,Mozambique,0,1,0,1
+UGA,Uganda,0,1,0,1
+CZE,Czech Republic,4,4,5,13
+BUL,Bulgaria,3,6,12,21
+AUT,Austria,0,2,1,3
+MEX,Mexico,0,1,0,1
+MAS,Malaysia,0,1,2,3
+INA,Indonesia,2,3,1,6
+DEN,Denmark,22,1,1,24
+LTU,Lithuania,0,12,0,12
+YUG,Yugoslavia,1,13,12,26
+THA,Thailand,1,1,0,2
+PUR,Puerto Rico*,0,1,0,1
+TUN,Tunisia,0,1,0,1
+KAZ,Kazakhstan,3,4,4,11
+TGA,Tonga,0,0,1,1
+TUR,Turkey,4,1,1,6
+PHI,Philippines,0,0,1,1
+UZB,Uzbekistan,0,1,1,2
+ARG,Argentina,0,1,19,20
+SUI,Switzerland,5,0,6,11
+SVK,Slovakia,1,1,1,3
+MDA,Moldova,0,1,2,3
+LAT,Latvia,0,0,1,1
+PRK,"Korea, North",2,2,1,5
+MGL,Mongolia,0,1,0,1
+GEO,Georgia,0,2,0,2
+HKG,Hong Kong*,1,0,0,1
+ISR,Israel,0,1,0,1
+TPE,Taiwan,0,0,1,1
+IND,India,0,1,0,1
+ARM,Armenia,1,0,1,2
+AZE,Azerbaijan,0,0,1,1
+IRI,Iran,1,1,1,3

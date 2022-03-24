@@ -1,0 +1,42 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+GDR,East Germany,99,42,51,192
+URS,Soviet Union,113,79,93,285
+USA,United States,63,36,56,155
+ITA,Italy,2,4,25,31
+SWE,Sweden,9,0,1,10
+AUS,Australia,0,8,16,24
+CAN,Canada,0,12,8,20
+FRG,West Germany,21,30,24,75
+NED,Netherlands,0,13,2,15
+GBR,United Kingdom,6,11,15,32
+HUN,Hungary,14,35,6,55
+JPN,Japan,25,10,6,41
+CUB,Cuba,6,14,4,24
+POL,Poland,18,26,29,73
+BUL,Bulgaria,8,18,13,39
+NZL,New Zealand,17,9,1,27
+BEL,Belgium,0,6,3,9
+MEX,Mexico,1,1,0,2
+JAM,Jamaica,1,0,1,2
+FIN,Finland,4,0,2,6
+ROU,Romania,4,23,28,55
+POR,Portugal,0,0,2,2
+FRA,France,5,8,7,20
+BRA,Brazil,0,3,0,3
+TCH,Czechoslovakia,2,9,4,15
+TRI,Trinidad and Tobago,1,0,0,1
+YUG,Yugoslavia,2,3,14,19
+VEN,Venezuela,0,0,1,1
+PUR,Puerto Rico*,0,1,0,1
+PRK,"Korea, North",1,0,1,2
+BER,Bermuda*,0,1,0,1
+THA,Thailand,0,1,0,1
+ESP,Spain,0,0,6,6
+DEN,Denmark,3,5,0,8
+SUI,Switzerland,1,6,3,10
+PAK,Pakistan,0,16,0,16
+KOR,"Korea, South",1,15,1,17
+NOR,Norway,2,0,4,6
+AUT,Austria,0,1,0,1
+IRI,Iran,0,1,1,2
+MGL,Mongolia,0,0,1,1

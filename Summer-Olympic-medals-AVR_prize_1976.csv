@@ -1,0 +1,42 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+GDR,East Germany,23.08,9.40,11.89,14.71
+URS,Soviet Union,26.34,17.67,21.68,21.84
+USA,United States,14.69,8.05,13.05,11.88
+ITA,Italy,0.47,0.89,5.83,2.38
+SWE,Sweden,2.10,0.00,0.23,0.77
+AUS,Australia,0.00,1.79,3.73,1.84
+CAN,Canada,0.00,2.68,1.86,1.53
+FRG,West Germany,4.90,6.71,5.59,5.75
+NED,Netherlands,0.00,2.91,0.47,1.15
+GBR,United Kingdom,1.40,2.46,3.50,2.45
+HUN,Hungary,3.26,7.83,1.40,4.21
+JPN,Japan,5.83,2.24,1.40,3.14
+CUB,Cuba,1.40,3.13,0.93,1.84
+POL,Poland,4.20,5.82,6.76,5.59
+BUL,Bulgaria,1.86,4.03,3.03,2.99
+NZL,New Zealand,3.96,2.01,0.23,2.07
+BEL,Belgium,0.00,1.34,0.70,0.69
+MEX,Mexico,0.23,0.22,0.00,0.15
+JAM,Jamaica,0.23,0.00,0.23,0.15
+FIN,Finland,0.93,0.00,0.47,0.46
+ROU,Romania,0.93,5.15,6.53,4.21
+POR,Portugal,0.00,0.00,0.47,0.15
+FRA,France,1.17,1.79,1.63,1.53
+BRA,Brazil,0.00,0.67,0.00,0.23
+TCH,Czechoslovakia,0.47,2.01,0.93,1.15
+TRI,Trinidad and Tobago,0.23,0.00,0.00,0.08
+YUG,Yugoslavia,0.47,0.67,3.26,1.46
+VEN,Venezuela,0.00,0.00,0.23,0.08
+PUR,Puerto Rico*,0.00,0.22,0.00,0.08
+PRK,"Korea, North",0.23,0.00,0.23,0.15
+BER,Bermuda*,0.00,0.22,0.00,0.08
+THA,Thailand,0.00,0.22,0.00,0.08
+ESP,Spain,0.00,0.00,1.40,0.46
+DEN,Denmark,0.70,1.12,0.00,0.61
+SUI,Switzerland,0.23,1.34,0.70,0.77
+PAK,Pakistan,0.00,3.58,0.00,1.23
+KOR,"Korea, South",0.23,3.36,0.23,1.30
+NOR,Norway,0.47,0.00,0.93,0.46
+AUT,Austria,0.00,0.22,0.00,0.08
+IRI,Iran,0.00,0.22,0.23,0.15
+MGL,Mongolia,0.00,0.00,0.23,0.08

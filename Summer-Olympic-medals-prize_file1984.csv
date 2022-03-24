@@ -1,0 +1,48 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+USA,United States,168,50,115,333
+CHN,China,26,37,13,76
+CAN,Canada,19,32,35,86
+FRG,West Germany,31,52,74,157
+AUS,Australia,7,29,14,50
+NED,Netherlands,20,14,6,40
+SUI,Switzerland,0,6,9,15
+GBR,United Kingdom,9,43,20,72
+SWE,Sweden,3,11,18,32
+VEN,Venezuela,0,3,0,3
+BRA,Brazil,1,2,34,37
+FRA,France,21,31,16,68
+BEL,Belgium,1,2,2,5
+ROU,Romania,40,35,31,106
+JPN,Japan,10,31,8,49
+YUG,Yugoslavia,47,35,5,87
+KOR,"Korea, South",6,7,29,42
+NGR,Nigeria,0,4,1,5
+FIN,Finland,4,6,2,12
+MEX,Mexico,2,1,3,6
+JAM,Jamaica,0,2,4,6
+ITA,Italy,29,28,6,63
+POR,Portugal,1,2,0,3
+NOR,Norway,0,3,1,4
+IRL,Ireland,0,0,1,1
+KEN,Kenya,1,2,0,3
+MAR,Morocco,2,0,0,2
+CIV,Cote d'Ivoire,0,0,1,1
+ESP,Spain,2,3,14,19
+ALG,Algeria,0,2,0,2
+NZL,New Zealand,16,6,1,23
+TUR,Turkey,0,3,0,3
+CMR,Cameroon,0,1,0,1
+THA,Thailand,0,0,1,1
+PUR,Puerto Rico*,0,1,1,2
+ZAM,Zambia,0,1,0,1
+DOM,Dominican Republic,0,1,0,1
+DEN,Denmark,0,10,5,15
+PAK,Pakistan,16,0,0,16
+ISL,Iceland,0,1,0,1
+AUT,Austria,1,1,1,3
+EGY,Egypt,0,0,1,1
+COL,Colombia,0,0,1,1
+PER,Peru,0,0,1,1
+TPE,Taiwan,0,1,0,1
+SYR,Syria,0,0,1,1
+GRE,Greece,0,1,1,2

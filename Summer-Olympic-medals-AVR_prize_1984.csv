@@ -1,0 +1,48 @@
+Country_Code,Country,Gold,Bronze,Silver,Total
+USA,United States,34.78,10.00,24.16,22.82
+CHN,China,5.38,7.40,2.73,5.21
+CAN,Canada,3.93,6.40,7.35,5.89
+FRG,West Germany,6.42,10.40,15.55,10.76
+AUS,Australia,1.45,5.80,2.94,3.43
+NED,Netherlands,4.14,2.80,1.26,2.74
+SUI,Switzerland,0.00,1.20,1.89,1.03
+GBR,United Kingdom,1.86,8.60,4.20,4.93
+SWE,Sweden,0.62,2.20,3.78,2.19
+VEN,Venezuela,0.00,0.60,0.00,0.21
+BRA,Brazil,0.21,0.40,7.14,2.54
+FRA,France,4.35,6.20,3.36,4.66
+BEL,Belgium,0.21,0.40,0.42,0.34
+ROU,Romania,8.28,7.00,6.51,7.27
+JPN,Japan,2.07,6.20,1.68,3.36
+YUG,Yugoslavia,9.73,7.00,1.05,5.96
+KOR,"Korea, South",1.24,1.40,6.09,2.88
+NGR,Nigeria,0.00,0.80,0.21,0.34
+FIN,Finland,0.83,1.20,0.42,0.82
+MEX,Mexico,0.41,0.20,0.63,0.41
+JAM,Jamaica,0.00,0.40,0.84,0.41
+ITA,Italy,6.00,5.60,1.26,4.32
+POR,Portugal,0.21,0.40,0.00,0.21
+NOR,Norway,0.00,0.60,0.21,0.27
+IRL,Ireland,0.00,0.00,0.21,0.07
+KEN,Kenya,0.21,0.40,0.00,0.21
+MAR,Morocco,0.41,0.00,0.00,0.14
+CIV,Cote d'Ivoire,0.00,0.00,0.21,0.07
+ESP,Spain,0.41,0.60,2.94,1.30
+ALG,Algeria,0.00,0.40,0.00,0.14
+NZL,New Zealand,3.31,1.20,0.21,1.58
+TUR,Turkey,0.00,0.60,0.00,0.21
+CMR,Cameroon,0.00,0.20,0.00,0.07
+THA,Thailand,0.00,0.00,0.21,0.07
+PUR,Puerto Rico*,0.00,0.20,0.21,0.14
+ZAM,Zambia,0.00,0.20,0.00,0.07
+DOM,Dominican Republic,0.00,0.20,0.00,0.07
+DEN,Denmark,0.00,2.00,1.05,1.03
+PAK,Pakistan,3.31,0.00,0.00,1.10
+ISL,Iceland,0.00,0.20,0.00,0.07
+AUT,Austria,0.21,0.20,0.21,0.21
+EGY,Egypt,0.00,0.00,0.21,0.07
+COL,Colombia,0.00,0.00,0.21,0.07
+PER,Peru,0.00,0.00,0.21,0.07
+TPE,Taiwan,0.00,0.20,0.00,0.07
+SYR,Syria,0.00,0.00,0.21,0.07
+GRE,Greece,0.00,0.20,0.21,0.14
